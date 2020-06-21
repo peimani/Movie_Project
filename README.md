@@ -39,7 +39,7 @@ After the conversion was verified we dropped the column labeled ‘worldwide_gro
 
 After cleaning this dataframe we plotted a Scatter Plot using Seaborn that would help us best visualize any correlations or trends between Production Budget and Domestic Gross. While we saw a positive correlation between the two variables, our interest focused on movies with a budget of $200 million.  At this mark we saw films with high gross profits.  
 
-![Imgur](https://i.imgur.com/aQJlXc7.png)
+![Imgur](https://i.imgur.com/OVmYRiU.png)
 
 Identifying the area where we could maximize our profit, we identified the top 10 films.
 
